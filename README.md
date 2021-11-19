@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **more about Machine Learning and Web Development.**
 
-- 📫 How to reach me **aarchishya@gmail.com**
+- 📫 Reach me at **aarchishya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
