@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarchishya&show_icons=true&locale=en" alt="aarchishya" /></p>
 
-<p><img src = "http://github-readme-streak-stats.herokuapp.com?user=aarchishya&border=DDDDDD" width = 600></p>
+<p><img src = "http://github-readme-streak-stats.herokuapp.com?user=aarchishya&border=DDDDDD" width = 500></p>
