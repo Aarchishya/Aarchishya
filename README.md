@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Aarchishya Kapoor</h1>
-<h3 align="left">A Graduate in Computer science from Thapar Institute of Engineering and technology.</h3>
+<h3 align="left">A final year masters student in Data Science and management jointly offered by IIT & IIM Indore .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarchishya&label=Profile%20views&color=0e75b6&style=flat" alt="aarchishya" /> </p>
 
